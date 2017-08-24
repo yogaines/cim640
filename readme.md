@@ -12,3 +12,5 @@
 [Click here for google](abobmusicband.com)
 
 ###[cool thing to see](abobmusicband.com)
+
+[Link to week 1 assignment page](https://github.com/yogaines/cim640/tree/master/week%201)
